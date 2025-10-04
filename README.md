@@ -1,3 +1,3 @@
-# Kriptografi — Vigenère Cipher
+# Kriptografi
 
-Implementasi Vigenère Cipher dalam Python, termasuk versi GUI, enkripsi, dan dekripsi.
+Implementasi Kriptografi dalam Python, termasuk versi GUI, enkripsi, dan dekripsi.
