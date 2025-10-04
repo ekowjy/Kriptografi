@@ -1,7 +1,7 @@
 # ================================================
 # File : vigenere_encrypt.py
 # Deskripsi : Enkripsi teks menggunakan Vigenère Cipher
-# Penulis : Zodi
+# Penulis : FT
 # ================================================
 
 def vigenere_encrypt(plaintext, key):
